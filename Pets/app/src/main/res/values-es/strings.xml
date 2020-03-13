@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="lbl_fname">Nombres</string>
+    <string name="lbl_lname">Apellidos</string>
+    <string name="lbl_name">Pedro</string>
+    <string name="lbl_email">Correo</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="btn_sing">Ingresar</string>
+    <string name="lbl_reg_act">"Registro de usuario "</string>
+    <string name="btn_name">Registrarse</string>
+    <string name="btn_email">pedro@gmail.com</string>
+</resources>
