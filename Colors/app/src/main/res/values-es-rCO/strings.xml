@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colores</string>
+    <string name="lblOp_Red">Rojo</string>
+    <string name="lblOp_Green">Verde</string>
+    <string name="lblOp_Blue">Azul</string>
+    <string name="lblOp_Magenta">Magenta</string>
+    <string name="lblOp_Yellow">Amarillo</string>
+    <string name="lblOp_Reset">Restablecer</string>
+    <string name="lblOp_AboutOf">Acerca de</string>
+    <string name="lblOp_Black">Negro</string>
+    <string name="lblOp_Opaque">Ppaco</string>
+    <string name="lblOp_SemiTransparent">SemiTransparente</string>
+    <string name="lblOp_Transparent">Transparente</string>
+    <string name="lblOp_Alpha">Alpha</string>
+    <string name="lbl_red">ROJO</string>
+    <string name="lbl_green">VERDE</string>
+    <string name="lbl_blue">AZUL</string>
+    <string name="lbl_alpha">ALPHA</string>
+    <string name="lblOp_White">Blanco</string>
+    <string name="lblOp_Cyan">Cyan</string>
+
+    <string name="lblOp_Help">Help</string>
+</resources>
